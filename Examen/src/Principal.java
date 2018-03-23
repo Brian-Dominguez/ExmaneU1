@@ -74,7 +74,7 @@ public class Principal extends JFrame
 
 	public static void main(String[] args)
 	    {
-	        Principal Ventana = new Principal("Cambios de Monedas");
+	        Principal Ventana = new Principal("Cambios de Monedas ");
 	        Ventana.setSize(380,280);
 			Ventana.setResizable(false);
 	        Ventana.setVisible(true);
